@@ -1,7 +1,7 @@
 # Witless Discord
 
-* [Русский](##RU)
-* [English](##EN)
+* [Русский](#ru)
+* [English](#en)
 
 ## RU
 
