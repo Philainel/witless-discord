@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/Philainel/witless-discord/issues"
   },
-  "homepage": "https://github.com/Philainel/witless-discord#readme"
+  "homepage": "https://github.com/Philainel/witless-discord#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.0",
+    "nodemon": "^2.0.20",
+    "typescript": "^4.8.4"
+  }
 }
