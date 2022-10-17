@@ -13,4 +13,4 @@
 
 A VK bot reincarnation in Discord. Bot learns on channel messages and generates a new one. Inspired by closed [Witless](https://vk.com/witless) project.
 
-You can get to know how does it works on [this](https://discord.gg/nja5gWggAa) Discord server and add it to your own.
+Bot live on [this Discord server](https://discord.gg/nja5gWggAa). Here Yyu can get to know how does it works on  and add it to your own.
