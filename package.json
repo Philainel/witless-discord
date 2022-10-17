@@ -1,0 +1,19 @@
+{
+  "name": "witless-discord",
+  "version": "0.1.0",
+  "description": "Witless (closed VK bot) reincarnation in discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Philainel/witless-discord.git"
+  },
+  "author": "Philainel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Philainel/witless-discord/issues"
+  },
+  "homepage": "https://github.com/Philainel/witless-discord#readme"
+}
